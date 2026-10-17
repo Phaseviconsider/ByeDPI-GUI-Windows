@@ -1,0 +1,8 @@
+[Bb]in/
+[Ob]bj/
+.vs/
+*.user
+*.suo
+release/
+*.zip
+*.7z
